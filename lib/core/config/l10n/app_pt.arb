@@ -1,0 +1,7 @@
+{
+    "close": "Fechar",
+    "lastLocations": "Últimos locais",
+    "noConnection": "Sem conexão",
+    "getCoordinatesError": "Erro ao obter sua localização. Certifique-se de ter GPS ou Internet em seu dispositivo.",
+    "unexpectedError": "Erro inesperado"
+}

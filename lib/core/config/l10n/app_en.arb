@@ -1,0 +1,7 @@
+{
+    "close": "Close",
+    "lastLocations": "Last locations",
+    "noConnection": "No connection",
+    "getCoordinatesError": "Error to get your location, make sure you have gps on  or internet in your device.",
+    "unexpectedError": "Unexpected error"
+}
